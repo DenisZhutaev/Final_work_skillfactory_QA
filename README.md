@@ -1,6 +1,6 @@
 >## :briefcase: ИТОГОВЫЙ ПРОЕКТ ПО АВТОМАТИЗАЦИИ ТЕСТИРОВАНИЯ SKILLFACTORY QAP-1031 
 
-@@ ### Необходимо протестировать новый интерфейс авторизации в личном кабинете от заказчика Ростелеком.@@
+### Необходимо протестировать новый интерфейс авторизации в личном кабинете от заказчика Ростелеком.
 
 → Объект тестирования: https://b2c.passport.rt.ru
 
@@ -32,7 +32,7 @@
    * Описание оформленных дефектов.
 
 ***
-**:bookmark_tabs: В корневом каталоге проекта содержаться:**
+**:bookmark_tabs: @@В корневом каталоге проекта содержаться:@@**
 * [config.py](https://github.com/DenisZhutaev/Final_work_QAP1031/blob/master/config.py) - содержит переменные используемые в проекте;
 * [README.md](https://github.com/DenisZhutaev/Final_work_QAP1031/blob/master/README.md) - содержит информацию в целом о проекте;
 * [requirements.txt](https://github.com/DenisZhutaev/Final_work_QAP1031/blob/master/requirements.txt) - содержит все библиотеки и зависимости проекта.
