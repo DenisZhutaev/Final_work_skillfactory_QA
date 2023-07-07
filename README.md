@@ -33,12 +33,12 @@
 
 ***
 **:bookmark_tabs: В корневом каталоге проекта содержаться:**
-* config.py - содержит переменные используемые в проекте;
-* README.md - содержит информацию в целом о проекте;
-* requirements.txt - содержит все библиотеки и зависимости проекта.
+* [config.py](https://github.com/DenisZhutaev/Final_work_QAP1031/blob/master/config.py) - содержит переменные используемые в проекте;
+* [README.md](https://github.com/DenisZhutaev/Final_work_QAP1031/blob/master/README.md) - содержит информацию в целом о проекте;
+* [requirements.txt](https://github.com/DenisZhutaev/Final_work_QAP1031/blob/master/requirements.txt) - содержит все библиотеки и зависимости проекта.
 ***
 **:bookmark_tabs: Директория driver содержит:**
-* chromedriver.exe - драйвер для управления браузером Chrome.
+* [chromedriver.exe]() - драйвер для управления браузером Chrome.
 ***
 **:bookmark_tabs: Директория tests содержит:**
 * test_authorization_interface.py - файл автотестов;
