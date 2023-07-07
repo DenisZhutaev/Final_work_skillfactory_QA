@@ -32,7 +32,7 @@
    * Описание оформленных дефектов.
 
 ***
-**:bookmark_tabs: @@В корневом каталоге проекта содержаться:@@**
+**:bookmark_tabs: В корневом каталоге проекта содержаться:**
 * [config.py](https://github.com/DenisZhutaev/Final_work_QAP1031/blob/master/config.py) - содержит переменные используемые в проекте;
 * [README.md](https://github.com/DenisZhutaev/Final_work_QAP1031/blob/master/README.md) - содержит информацию в целом о проекте;
 * [requirements.txt](https://github.com/DenisZhutaev/Final_work_QAP1031/blob/master/requirements.txt) - содержит все библиотеки и зависимости проекта.
@@ -69,7 +69,7 @@
 * Для определения локаторов использовались 
 следующие инструменты: DevTools, [ChroPath](https://chrome.google.com/webstore/detail/chropath/ljngjbnaijcbncmcnjfhigebomdlkcjo). 
 
-### Запуск тестов:
+@@ Запуск тестов: @@
 * установить все библиотеки и зависимости: `pip install -r requirements.txt`;
 * загрузите [Selenium WebDriver](https://chromedriver.chromium.org/downloads) (выберите версию, совместимую с вашим браузером) и прописать путь к драйверу в переменную PATH в файле config.py;
 * запустить тест: `python -m pytest -v --driver Chrome --driver-path Final_work_QAP1031/chromedriver_mac_arm64/chromedriver tests/test_authorization_interface.py`.
