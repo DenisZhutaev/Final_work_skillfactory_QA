@@ -38,15 +38,15 @@
 * [requirements.txt](https://github.com/DenisZhutaev/Final_work_QAP1031/blob/master/requirements.txt) - содержит все библиотеки и зависимости проекта.
 ***
 **:bookmark_tabs: Директория driver содержит:**
-* [chromedriver.exe]() - драйвер для управления браузером Chrome.
+* [chromedriver.exe](https://github.com/DenisZhutaev/Final_work_QAP1031/tree/master/chromedriver_mac_arm64) - драйвер для управления браузером Chrome.
 ***
 **:bookmark_tabs: Директория tests содержит:**
-* test_authorization_interface.py - файл автотестов;
-* conftest.py - условия для выполнения тестовых задач.
+* [test_authorization_interface.py](https://github.com/DenisZhutaev/Final_work_QAP1031/blob/master/tests/test_authorization_interface.py) - файл автотестов;
+* [conftest.py](https://github.com/DenisZhutaev/Final_work_QAP1031/blob/master/tests/conftest.py) - условия для выполнения тестовых задач.
 ***
 **:bookmark_tabs: Директория pages содержит:**
-* locators.py - содержит описание локаторов проекта;
-* base_page.py - содержит базовые функции и методы.
+* [locators.py](https://github.com/DenisZhutaev/Final_work_QAP1031/blob/master/pages/locators.py) - содержит описание локаторов проекта;
+* [base_page.py](https://github.com/DenisZhutaev/Final_work_QAP1031/blob/master/pages/base_page.py) - содержит базовые функции и методы.
 ***
 
 
@@ -65,9 +65,9 @@
 ### Инструменты, которые применялись для тестирования.
 
 * Для тестирования сайта был использован 
-интсрумент Selenium;
+интсрумент [Selenium](https://www.selenium.dev/);
 * Для определения локаторов использовались 
-следующие инструменты: DevTools, ChroPath. 
+следующие инструменты: DevTools, [ChroPath](https://chrome.google.com/webstore/detail/chropath/ljngjbnaijcbncmcnjfhigebomdlkcjo). 
 
 ### Запуск тестов:
 * установить все библиотеки и зависимости: `pip install -r requirements.txt`;
